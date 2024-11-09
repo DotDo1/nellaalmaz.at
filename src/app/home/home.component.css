@@ -1,0 +1,27 @@
+.container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .navbar-item {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  .navbar-item:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    color: #444;
+    margin-top: 20px;
+  }
